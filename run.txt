@@ -1,0 +1,6 @@
+This is the instruction to run the spotify playlist downloader 
+
+- activate the virtualenv
+- once you activate the virtualenv 
+- choose the appropriate folder
+- type "spotdl [url]" to download the spotify playlist 

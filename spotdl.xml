@@ -1,0 +1,6 @@
+D:
+cd D:\project\music\env\Scripts
+activate
+cd D:\project\music\playlists\
+mkdir จlife with music
+spotdl https://open.spotify.com/playlist/2xcwGcYu1uq4KZS5Ud0XiS?si=9d45651bd2a64e52
